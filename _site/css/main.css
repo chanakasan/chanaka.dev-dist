@@ -1,4 +1,22 @@
-body {
-  background: #222;
-  color: #ddd;
+@import "base.css";
+/* 
+article {
+  padding: 70px 170px 50px;
+
+} */
+
+h1 {
+  font-size: 48px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+p {
+  font-family: Georgia, serif;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.about-links {
+  margin-top: 40px;
 }
