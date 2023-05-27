@@ -1,9 +1,9 @@
 @import "base.css";
-/* 
-article {
-  padding: 70px 170px 50px;
 
-} */
+article {
+   padding-left: 30px;
+   padding-right: 20px;
+}
 
 h1 {
   font-size: 48px;
